@@ -20,7 +20,11 @@
 - Comprehensive Overview: [Causal Machine Learning A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
 - Microsoft paper: [DAGs with NO TEARS](https://arxiv.org/abs/1803.01422)
 - Microsoft paper: [Deep End-to-end Causal Inference](https://arxiv.org/abs/2202.02195)
+
+### Causal Time series 
 - Microsoft paper: [RHINO Deep Causal Temporal Relationship Learning](https://arxiv.org/abs/2210.14706)
+- Causalense article: [Time-Series Analysis: Why Causality is the Only Way](https://www.causalens.com/blog/time-series-analysis-why-causality-is-the-only-way/)
+
 
 ### Websites
 - [Causalense company white papers](https://www.causalens.com/white-papers/)
