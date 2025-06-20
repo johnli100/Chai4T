@@ -1,38 +1,37 @@
-# Chai4T
+# CHAI4T
 ***Causal Hybrid Artificial Intelligence for Trading***
 
 ![Image](https://user-images.githubusercontent.com/47487862/212566129-55cdb669-5d51-4325-986f-98624a3f2a21.gif)
 
-## References
-### Inspirational Video Introduction
-- CausaLense (Gentle) video [Introduction to Causal AI for Investing](https://www.youtube.com/watch?v=ZZcLHCk9LjY) 
-- Microsoft (Gentle) video [Introduction to Causal ML](https://www.youtube.com/watch?v=7Zr6_Gdd0fo&list=PLD7HFcN7LXRf9cqPMGU2N6PLhDk2d6V5M&index=2)
-- Yoshua Bengio (Technical) video [Towards Causal Representation Learning](https://www.youtube.com/watch?v=rKZJ0TJWvTk)
-- Judea Pearl (Gentel) video [New Science of Cause and Effect](https://www.youtube.com/watch?v=ZaPV1OSEpHw&list=PLzERW_Obpmv-8z4cjUpUC1ciUIFHkAMSR&index=3)
+### Causal Modeling in Finance
+- [Causal Factor Investing: Can Factor Investing Become Scientific? by López de Prado (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4205613)
+- [A Protocol for Causal Factor Investing by Lopez de Prado (2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277078)
+- [Causal Network Representations in Factor Investing by Howard et al. (2025)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/isaf.70001)
+- [Causal discovery in financial markets: A framework for nonstationary time-series data by Sadeghi et al. (2023)](https://arxiv.org/abs/2312.17375)
+- [Towards Automating Causal Discovery in Financial Markets and Beyond by Alik et al. (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4679414)
 
-### Introduction Books
-- Judea Pearl (Gentle) Book: [The Book of Why](https://www.amazon.ca/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1OFQ6OH1HP0KZ&keywords=the+book+of+why&qid=1673832347&sprefix=the+book+of+why%2Caps%2C133&sr=8-1)
-- Robert Ness (Technical) Book: [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning)
+### Causal Discovery with time series data
+- [Causal discovery from temporal data: An overview and new perspectives by Gong, Chang, et al. (2024)](https://dl.acm.org/doi/pdf/10.1145/3705297)
+- [Dynotears: Structure learning from time-series data by Pamfil, Roxana, et al.2020](https://arxiv.org/abs/2002.00498)
+- [Rhino: Deep causal temporal relationship learning with history-dependent noise Gong, Wenbo, et al. (2022)](https://arxiv.org/abs/2210.14706)
+- [Time-Series Analysis: Why Causality is the Only Way by Causalense](https://www.causalens.com/blog/time-series-analysis-why-causality-is-the-only-way/)
 
-### Technical Papers
+### Causal Discovery and Inference 
 - Yoshua Bengio [Towards Causal Representation Learning](https://arxiv.org/pdf/2102.11107.pdf)
 - Judea Pearl [Causal Foundations of Structural Equation Models (SEM)](http://ftp.cs.ucla.edu/pub/stat_ser/r370.pdf)
 - Comprehensive Overview: [Causal Machine Learning A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
 - Microsoft paper: [DAGs with NO TEARS](https://arxiv.org/abs/1803.01422)
 - Microsoft paper: [Deep End-to-end Causal Inference](https://arxiv.org/abs/2202.02195)
 
-### Causal Time series 
-- Microsoft paper: [RHINO Deep Causal Temporal Relationship Learning](https://arxiv.org/abs/2210.14706)
-- Causalense article: [Time-Series Analysis: Why Causality is the Only Way](https://www.causalens.com/blog/time-series-analysis-why-causality-is-the-only-way/)
+### Books
+- [The Book of Why by Judea Pearl](https://www.amazon.ca/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1OFQ6OH1HP0KZ&keywords=the+book+of+why&qid=1673832347&sprefix=the+book+of+why%2Caps%2C133&sr=8-1)
+- [Causal Machine Learning by Robert Ness](https://www.manning.com/books/causal-machine-learning)
+- [Causal Inference and Discovery in Python by Aleksander Molak](https://www.amazon.ca/Causal-Inference-Discovery-Python-learning/dp/1804612987/ref=sr_1_1?crid=1TPOV4CZPTBM0&dib=eyJ2IjoiMSJ9.mKKIWrdHIINP3xMjfNgyHEbt9UnkNqYWjY9qTSl6-Y0iqKEmhFwdSC7CmOczaHlD.5Npmz6JaZkw6tvi7JB26SwsGncnt2BvpkTrvk8e4hpw&dib_tag=se&keywords=Causal+Inference+and+Discovery+in+Python&qid=1750385244&sprefix=causal+inference+and+discovery+in+python+%2Caps%2C49&sr=8-1)
+- [Elements of Causal Inference: Foundations and Learning Algorithms by Jonas Peters et al.](https://www.amazon.ca/Elements-Causal-Inference-Foundations-Algorithms/dp/0262037319/ref=sr_1_2?crid=1TPOV4CZPTBM0&dib=eyJ2IjoiMSJ9.mKKIWrdHIINP3xMjfNgyHEbt9UnkNqYWjY9qTSl6-Y0iqKEmhFwdSC7CmOczaHlD.5Npmz6JaZkw6tvi7JB26SwsGncnt2BvpkTrvk8e4hpw&dib_tag=se&keywords=Causal+Inference+and+Discovery+in+Python&qid=1750385335&sprefix=causal+inference+and+discovery+in+python+%2Caps%2C49&sr=8-2)
 
-
-### Websites
-- [Causalense company white papers](https://www.causalens.com/white-papers/)
-- [Causal Reinforcement Learning](https://crl.causalai.net/)
-- [Altdeep.ai workshops](https://altdeep.ai/)
-
-### Apps
-- [Article on Causal Inference tools](https://towardsdatascience.com/4-python-packages-to-learn-causal-analysis-9a8eaab9fdab)
+- Microsoft (Gentle) video [Introduction to Causal ML](https://www.youtube.com/watch?v=7Zr6_Gdd0fo&list=PLD7HFcN7LXRf9cqPMGU2N6PLhDk2d6V5M&index=2)
+- Yoshua Bengio (Technical) video [Towards Causal Representation Learning](https://www.youtube.com/watch?v=rKZJ0TJWvTk)
+- Judea Pearl (Gentel) video [New Science of Cause and Effect](https://www.youtube.com/watch?v=ZaPV1OSEpHw&list=PLzERW_Obpmv-8z4cjUpUC1ciUIFHkAMSR&index=3)
 
 ### Quant Trading Books
 - [Machine Learning for Algorithmic Trading 2ed](https://www.amazon.ca/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715/ref=sr_1_5?crid=1WKCFI3B1XERF&keywords=machine+learning+for+trading&qid=1673834200&sprefix=machine+learning+for+trading%2Caps%2C116&sr=8-5) by Stefan Jansen
