@@ -1,7 +1,23 @@
 # CHAI4T
 ***Causal Hybrid Artificial Intelligence for Trading***
 
-![Image](https://user-images.githubusercontent.com/47487862/212566129-55cdb669-5d51-4325-986f-98624a3f2a21.gif)
+![CHAI4T](https://github.com/user-attachments/assets/2bb7c862-4339-457f-9f16-1aafd89bd475)
+
+### Causal Modeling Foundamental and Survey
+- [The causal foundations of structural equation modeling by Pearl, Judea (2021)](http://ftp.cs.ucla.edu/pub/stat_ser/r370.pdf)
+- [Causal inference meets deep learning: A comprehensive survey by Jiao, Licheng, et al. (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11384545/pdf/research.0467.pdf)
+- [Causal machine learning: a survey and open problems by Kaddour, Jean, et al. (2022)](https://arxiv.org/abs/2206.15475)
+- [D’ya like dags? a survey on structure learning and causal discovery by Vowels et al. (2022)](https://d1wqtxts1xzle7.cloudfront.net/76415846/2103.02582v2-libre.pdf?1639594204=&response-content-disposition=inline%3B+filename%3DDya_like_DAGs_A_Survey_on_Structure_Lear.pdf&Expires=1750437983&Signature=FecATc2h6LcxEo96nQsNl1W8Tv2hhi7aG-VGMT3X~5dBkgkLEPRh2QCJclsRAAYJEHNxAVxLQHOV4ivQhoFBxoedqHJFZ8zUPC5mslQUj3c~hv3l2Hb3WVvP7-ipNKsE0Q9bWehfNXNfD0DpCxenlpzqWtK0zlxejFJ9PFpbNrsdnZ4kQwgxSPisCgJXoPLshwZecGGteNP7Ovo8h0~Ng~ySUYz8hT6wGnqXiLUfkxFDHinoDD7yYiySathIbS528sDw7abT87QUtwyagBF7323xVjHFbork9O-GCE8CIifaTeVv6O~L5pXXld6NCN2HTDdVhs~P8QqH4RBbcPd8sA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+- [A survey of learning causality with data: Problems and methods by Guo, Ruocheng et al. (2020)](https://arxiv.org/pdf/1809.09337)
+- [Dags with no tears: Continuous optimization for structure learning by Zheng, Xun et al. (2018)](https://arxiv.org/pdf/1803.01422)
+
+
+### Causal Representative Learning
+- Yoshua Bengio [Towards Causal Representation Learning](https://arxiv.org/pdf/2102.11107.pdf)
+
+### Causal Model and Reinforcement Learning
+- Yoshua Bengio [Towards Causal Representation Learning](https://arxiv.org/pdf/2102.11107.pdf)
+
 
 ### Causal Modeling in Finance
 - [Causal Factor Investing: Can Factor Investing Become Scientific? by López de Prado (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4205613)
@@ -16,12 +32,6 @@
 - [Rhino: Deep causal temporal relationship learning with history-dependent noise Gong, Wenbo, et al. (2022)](https://arxiv.org/abs/2210.14706)
 - [Time-Series Analysis: Why Causality is the Only Way by Causalense](https://www.causalens.com/blog/time-series-analysis-why-causality-is-the-only-way/)
 
-### Causal Discovery and Inference 
-- Yoshua Bengio [Towards Causal Representation Learning](https://arxiv.org/pdf/2102.11107.pdf)
-- Judea Pearl [Causal Foundations of Structural Equation Models (SEM)](http://ftp.cs.ucla.edu/pub/stat_ser/r370.pdf)
-- Comprehensive Overview: [Causal Machine Learning A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
-- Microsoft paper: [DAGs with NO TEARS](https://arxiv.org/abs/1803.01422)
-- Microsoft paper: [Deep End-to-end Causal Inference](https://arxiv.org/abs/2202.02195)
 
 ### Books
 - [The Book of Why by Judea Pearl](https://www.amazon.ca/Book-Why-Science-Cause-Effect/dp/1541698967/ref=sr_1_1?crid=1OFQ6OH1HP0KZ&keywords=the+book+of+why&qid=1673832347&sprefix=the+book+of+why%2Caps%2C133&sr=8-1)
