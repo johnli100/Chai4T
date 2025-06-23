@@ -81,3 +81,6 @@
 - [Advances in financial machine learning](https://www.amazon.ca/Advances-Financial-Machine-Learning-Marcos/dp/1119482089/?_encoding=UTF8&pd_rd_w=srIIn&content-id=amzn1.sym.dbec2bc2-8bcf-4dc6-b4cd-0a11cd6e5d70&pf_rd_p=dbec2bc2-8bcf-4dc6-b4cd-0a11cd6e5d70&pf_rd_r=136-9382348-2538712&pd_rd_wg=BGhaZ&pd_rd_r=e37e979e-b9d2-45b1-bf54-f18ab28a126b&ref_=aufs_ap_sc_dsk) *De Prado, Marcos Lopez. John Wiley & Sons, 2018.*
 - [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://www.amazon.ca/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064/ref=pd_bxgy_img_sccl_1/134-0034359-5120134?pd_rd_w=jcpBa&content-id=amzn1.sym.17b2b149-58e2-4824-ba79-851c5f351fdc&pf_rd_p=17b2b149-58e2-4824-ba79-851c5f351fdc&pf_rd_r=592XE7GZ2HW2SWRRTQ5Z&pd_rd_wg=lFwiw&pd_rd_r=c2153cfc-c24a-4611-8308-100492d98404&pd_rd_i=1119800064&psc=1) *Ernest Chan (2021)*
 - [Machine Learning in Finance From Theory to Practice](https://www.amazon.ca/Machine-Learning-Finance-Theory-Practice/dp/3030410676/ref=sr_1_13?crid=1WKCFI3B1XERF&keywords=machine+learning+for+trading&qid=1673834200&sprefix=machine+learning+for+trading%2Caps%2C116&sr=8-13) *Matthew Dixon et al (2020)*
+
+### Model process flowchart
+![flowchart](https://github.com/johnli100/Chai4T/blob/main/Causal%20Modeling%20v0.1.jpg)
