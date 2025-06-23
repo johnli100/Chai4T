@@ -60,10 +60,10 @@
 - Causal Inference
   - [gCastle](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle) - PC, GES, NOTEARS, LiNGAM, GAE, RL/CORL (RL-based), HPCI/TTPM (Hawkes process)
   - [Tetrad](https://www.cmu.edu/dietrich/philosophy/tetrad/) - PC, R/FCI, R/GES, LiNGAM
-  - [CausalNex]([https://github.com/py-why/econml](https://github.com/mckinsey/causalnex) - DY/NOTEARS, DAG-GNN based on Bayesian Network, for time series data
+  - [CausalNex](https://github.com/mckinsey/causalnex/) - DY/NOTEARS, DAG-GNN based on Bayesian Network, for time series data
   - [tigramite](https://github.com/jakobrunge/tigramite) - PCMCI/+, LPCMCI, RPCMCI (regime switching), specifically for time series data
   - [causal-learn](https://github.com/py-why/causal-learn) - PC, G/FCI, G/F/GES, LiNAGAM, NOTEARS using Neural nets
-  -   - [tslearn](https://github.com/tslearn-team/tslearn/blob/main/README.md) - Granger causality based
+  - [tslearn](https://github.com/tslearn-team/tslearn/blob/main/README.md) - Granger causality based
     
 ### Causal Modeling in Finance
 - Overview
